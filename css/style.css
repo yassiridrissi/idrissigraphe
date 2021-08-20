@@ -2,7 +2,7 @@
 body{
   margin:0;
   line-height: 1.5;
-  background-color: #f3f2f1;
+  background-color: #18191a;
  }
  body,
  input,
@@ -50,7 +50,7 @@ body{
  .section-title h1{
  	display: inline-block;
  	font-size: 40px;
- 	color:#000000;
+ 	color:#FFF;
  	font-weight: 700;
  	margin:0;
  	position: relative;
@@ -713,7 +713,7 @@ background-color: rgba(0,0,0,0.5);
 	border-top:1px solid #c5c5c5;
 	padding:25px 15px;
 	text-align: center;
-	color:#555555;
+	color:#FFF;
 	font-size: 16px;
 }
 
