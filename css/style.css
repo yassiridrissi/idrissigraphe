@@ -336,8 +336,8 @@ body{
 }
 
 .about-section .about-content p{
-	font-size: 16px;
-	color:#555555;
+	font-size: 20px;
+	color:#FFF;
 	line-height: 26px;
 	margin:0;
 }
@@ -351,12 +351,12 @@ body{
 
 .about-section .about-content .stats .stat-box h2{
 	font-size: 40px;
-	color:#000000;
+	color:#FFF;
 	margin:0 0 5px;
 }
 .about-section .about-content .stats .stat-box h5{
 	font-size: 16px;
-	color:#555555;
+	color:#FFF;
 	font-weight: 600;
 	text-transform: uppercase;
 }
